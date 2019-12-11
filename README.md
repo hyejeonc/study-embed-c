@@ -1,2 +1,2 @@
 # study-embed-c
-Self-study of C and Assmebly language (Embedded SW)
+Self-study of C and Assembly language (Embedded SW)
